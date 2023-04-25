@@ -1,5 +1,5 @@
-import React from "react";
-import Mordal from "./Mordal";
+import React from 'react';
+import Mordal from './Mordal';
 
 function App() {
   return (

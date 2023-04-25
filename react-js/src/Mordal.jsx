@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import "./Mordal.css";
+import React, { useState } from 'react';
+import './Mordal.css';
 
 function Modal() {
   const [visible, setVisible] = useState(false);
