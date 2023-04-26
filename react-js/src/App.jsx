@@ -1,10 +1,10 @@
 import React from 'react';
-import Mordal from './Mordal';
+import Modal from './Modal';
 
 function App() {
   return (
     <div className="App">
-      <Mordal />
+      <Modal />
     </div>
   );
 }
